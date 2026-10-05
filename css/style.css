@@ -1,0 +1,335 @@
+/* --------------------------------
+   GENERAL PAGE STYLING
+-------------------------------- */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #222;
+    background: #ffffff;
+}
+
+
+/* --------------------------------
+   PROJECT HEADER
+-------------------------------- */
+
+.project-header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.project-header h1 {
+    color: #1f4e5f;
+    margin-bottom: 8px;
+}
+
+.project-header p {
+    max-width: 900px;
+    margin: 0 auto;
+    color: #555;
+    line-height: 1.5;
+}
+
+
+/* --------------------------------
+   SECTION HEADINGS
+-------------------------------- */
+
+h2 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+/* --------------------------------
+   PROJECT INFORMATION
+-------------------------------- */
+
+.info-panel {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin: 20px 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+}
+
+.info-panel div {
+    font-size: 14px;
+    text-align: center;
+    padding: 18px 12px;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.info-panel strong {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.info-panel div + div {
+    border-left: 1px solid #ddd;
+}
+
+
+/* --------------------------------
+   FILTER PANEL
+-------------------------------- */
+
+.filter-panel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.filter-panel select {
+    padding: 7px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    background: white;
+}
+
+
+/* --------------------------------
+   INTERACTIVE MAP
+-------------------------------- */
+
+#map {
+    height: 600px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+
+/* --------------------------------
+   METHODOLOGY NOTE
+-------------------------------- */
+
+.methodology-note {
+    margin-top: 15px;
+    padding: 12px 15px;
+    background: #f8f8f8;
+    border-left: 4px solid #555;
+    border-radius: 4px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #555;
+}
+
+
+/* --------------------------------
+   DUSTBIN TYPE CHART
+-------------------------------- */
+
+.chart-section {
+    margin-top: 25px;
+    padding: 20px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.chart-section h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#typeChart {
+    max-height: 400px;
+}
+
+.chart-insight {
+    margin-top: 15px;
+    padding: 12px 15px;
+    background: white;
+    border-left: 4px solid #555;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #555;
+}
+
+
+/* --------------------------------
+   DATA & METHODOLOGY
+-------------------------------- */
+
+.methodology-section {
+    margin-top: 25px;
+    padding: 20px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.methodology-section h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.methodology-section p {
+    max-width: 950px;
+    margin: 0 auto 12px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #555;
+}
+
+.methodology-section p:last-child {
+    margin-bottom: 0;
+}
+
+
+/* --------------------------------
+   TOOLS & TECHNOLOGIES
+-------------------------------- */
+
+.tools-section {
+    margin-top: 25px;
+    padding: 20px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.tools-section h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.tools-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.tools-list span {
+    padding: 8px 14px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #444;
+}
+
+
+/* --------------------------------
+   DENSITY LEGEND
+-------------------------------- */
+
+.density-legend {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.gradient-bar {
+    width: 150px;
+    height: 12px;
+    margin-top: 6px;
+    margin-bottom: 3px;
+    background: linear-gradient(
+        to right,
+        blue,
+        cyan,
+        lime,
+        yellow,
+        red
+    );
+    border-radius: 3px;
+}
+
+.legend-labels {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* --------------------------------
+   RESPONSIVE DESIGN
+-------------------------------- */
+
+@media (max-width: 900px) {
+
+    body {
+        margin: 25px;
+    }
+
+    .info-panel {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 700px) {
+
+    body {
+        margin: 15px;
+    }
+
+    .info-panel {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .info-panel div + div {
+        border-left: none;
+        border-top: 1px solid #ccc;
+        padding-top: 15px;
+    }
+
+    .filter-panel {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    #map {
+        height: 500px;
+    }
+
+    .project-header h1 {
+        font-size: 24px;
+    }
+
+}
+
+/* --------------------------------
+   DUSTBIN POPUP PHOTOGRAPH
+-------------------------------- */
+
+.dustbin-popup {
+    min-width: 180px;
+}
+
+.dustbin-photo-container {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.dustbin-photo {
+    display: block;
+    width: 220px;
+    max-width: 100%;
+    height: auto;
+    max-height: 180px;
+    object-fit: cover;
+    margin: 8px auto 0;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}

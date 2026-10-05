@@ -1,0 +1,55 @@
+id,latitude,longitude,type,overflow,photo,photo_url
+1,29.380666,79.463635,Blue green,No,1000197709-10_6_29.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795175790/attachments/attG3eDCh7ZfS3BeBY6LZbYY/
+2,29.381182,79.46396,Blue green,No,1000197710-10_9_25.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795177035/attachments/attJJivJhBAxuQD3xQhyjrne/
+3,29.383053,79.46344,Blue green,No,1000197712-10_13_56.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795179295/attachments/atttUzJuZYzqB5qomavtXhDE/
+4,29.383397,79.463299,Metal,Yes,1000197713-10_15_8.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795179707/attachments/attYBrGoRcb573Wx2hpHq5gf/
+5,29.383462,79.463432,Blue green,No,1000107845-10_18_7.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795180818/attachments/attKvb2Vqdi2WWbwvMDW8XoB/
+6,29.383644,79.46332,Metal,No,1000197715-10_18_54.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795181100/attachments/atttdFxRngHAHwE3NDTjWZmR/
+7,29.383737,79.463292,Metal,No,1000197717-10_21_56.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795182540/attachments/attoQyyVtxAsLdc2bfySnETj/
+8,29.384148,79.463323,Decorative dustbin,Yes,1000107850-10_22_17.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795182723/attachments/attTCs6ByWQuMJJTWU9tdyQw/
+9,29.384709,79.463188,Decorative dustbin,No,1000107855-10_24_27.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795184072/attachments/attt5NHakje9NdfGobccaYNJ/
+10,29.384032,79.463209,Blue green,No,1000197718-10_25_52.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795184622/attachments/attnDjBNf2iLTPZZ6yRGaCAZ/
+11,29.385037,79.462886,Metal,No,1000197719-10_27_21.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795185255/attachments/attD7APQ65rJrWgLmiTh9dZE/
+12,29.384911,79.46295,Decorative dustbin,No,1000107856-10_27_7.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795185376/attachments/attLj7KLMY69j4ME6PQyb46C/
+13,29.384947,79.462941,Metal,No,1000107857-10_28_11.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795185643/attachments/attt2LRJeHa4gue58K5jSthe/
+14,29.385316,79.462721,Blue green,No,1000107858-10_28_57.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795185970/attachments/atteFhZXbKDcsAajc9Emk52m/
+15,29.384006,79.463198,Blue green,No,1000197720-10_28_59.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795186085/attachments/attYR8Z9Jp7mSmPF2DTjgbac/
+16,29.384038,79.463157,Metal,No,1000197722-10_30_10.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795186618/attachments/attKAVH6MWTCETY8NB2Bak6J/
+17,29.386201,79.462296,Blue green,No,1000107859-10_34_15.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795188715/attachments/att48kbfdMXU3gKFpnsxaQLh/
+18,29.386364,79.462174,Blue green,No,1000197723-10_34_22.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795188733/attachments/attV8oxpopBY3mhAR2qRPMHm/
+19,29.387296,79.461643,Blue green,No,1000107860-10_38_25.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795191146/attachments/attg6hRwmunn3x4tpXg3TUSv/
+20,29.387386,79.461522,Metal,No,1000107861-10_39_53.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795191884/attachments/attqzVuASmNQGwBsYd5kLPXY/
+21,29.388463,79.460543,Blue green,No,1000197725-10_43_38.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795193795/attachments/attzW2wVYvNnb5XW8dbKrEuo/
+22,29.388552,79.46048,Blue green,No,1000107862-10_45_4.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795194865/attachments/attdGYcVmLG9Dbxtf8XKcFYT/
+23,29.388556,79.460489,Plastic,No,1000197728-10_47_20.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795196286/attachments/attxsZqb6uaYDCFvshYb8cog/
+24,29.38868,79.460235,Blue green,No,1000197729-10_49_4.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795197042/attachments/attd6zGto4AKKPTCU396fwnL/
+25,29.389237,79.459628,Blue green,No,1000107864-10_50_37.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795198250/attachments/atteB67tWzjBCM6Tczt7qoPb/
+26,29.38925,79.459595,Blue green,No,1000107865-10_51_49.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795198745/attachments/attbJoEJXRG6T3EsikJKRC22/
+27,29.389936,79.458968,Blue green,No,1000107866-10_53_41.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795199828/attachments/attB55NNfhZKQbMZ9b7AF7zv/
+28,29.39038,79.458206,Plastic,No,1000107868-10_57_18.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795201637/attachments/attR6gVwnp3i9VVhWnEv4oik/
+29,29.388465,79.460574,Plastic,No,1000107869-10_57_59.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795202061/attachments/att6ddu76HgNd7osBarNq5mU/
+30,29.390451,79.45776,Plastic,No,1000107873-11_20_55.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795216324/attachments/attPBoHPTu9AdmDDwE5abhEo/
+31,29.390473,79.45783,Metal,No,1000107874-11_21_17.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795216543/attachments/attBVTKv4wuH6hroDHktj7mm/
+32,29.390435,79.457831,Metal,No,1000107875-11_21_59.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795217201/attachments/att37EmFn7kiYUm4QKPB8B5z/
+33,29.390917,79.45719,Blue green,No,1000197747-11_24_6.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795218506/attachments/attjrrvJw4uumR8jfexsV2AC/
+34,29.391071,79.456948,Blue green,Yes,1000107876-11_25_16.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795219246/attachments/attgNMdW5ydHqiUidq6rFPVz/
+35,29.391057,79.456923,Plastic,Yes,1000197748-11_26_1.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795220007/attachments/atteg3ubBBcy3RybDfmLSjcW/
+36,29.391487,79.455929,Metal,No,1000197749-11_28_46.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795222296/attachments/attGtBd47mfxjB6coHARFkZB/
+37,29.391469,79.455793,Metal,No,1000197750-11_29_57.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795223016/attachments/atthdWrwdHu4jzQjKRWMCQ3D/
+38,29.391305,79.455619,Other,No,1000197751-11_30_53.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795223148/attachments/attWfcAzykgj8YVEXkJKGbiu/
+39,29.390492,79.45493,Other,No,1000107877-11_31_18.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795223231/attachments/att3oKXqeFiWQakK992WUFBU/
+40,29.391349,79.455566,Decorative dustbin,No,1000107878-11_32_6.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795223753/attachments/atte6kb4BKsMZXyhFmzDKyU4/
+41,29.390994,79.455354,Blue green,No,1000197752-11_32_42.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795224648/attachments/attxtauf32kB628pp4jaKqsD/
+42,29.390955,79.455271,Blue green,No,1000107879-11_33_47.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795225492/attachments/attwXsyaMzJXNk8cHSyKeNYQ/
+43,29.390675,79.455226,Blue green,No,1000197753-11_34_20.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795225812/attachments/attYJdCS8C4esPtCNRm7Vycv/
+44,29.390649,79.455256,Blue green,No,1000197754-11_34_57.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795226551/attachments/attf2Z5N257Wr2MHuNTFTvvj/
+45,29.390329,79.454894,Blue green,No,1000197755-11_37_11.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795228100/attachments/atteARC9denkdEx2VeRmXRNe/
+46,29.39008,79.455244,Metal,No,1000197762-11_57_32.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795245175/attachments/attdc8qwUQpEjTxWKPysZrXZ/
+47,29.391045,79.455662,Blue green,No,1000197763-12_0_14.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795248073/attachments/attxBooafU48pjjLvHLDt9DU/
+48,29.390319,79.455022,Blue green,No,1000107880-12_1_18.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795248872/attachments/att5hUPhWtzsgmiDie4AFwQ3/
+49,29.391456,79.456215,Blue green,No,1000107881-12_3_52.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795251246/attachments/attdWBpo3kVZZV8UfskxvDAx/
+50,29.387834,79.460973,Blue green,No,1000197803-15_24_10.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795493103/attachments/attNvNok4teFYY7pJdvEZ6MY/
+51,29.388248,79.460723,Plastic,No,1000197804-15_25_16.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795494934/attachments/attXaheKPkPe5H5PhYSHUAsP/
+52,29.388352,79.4606,Plastic,No,1000197805-15_26_17.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795497076/attachments/attYsx2iSqqsj437Jh6jRxjD/
+53,29.388516,79.460493,Blue green,No,1000197806-15_27_4.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795498125/attachments/attyHAVqzxfLZa6oX7oMp8y3/
+54,29.388739,79.460255,Plastic,No,1000197807-15_27_38.jpg,https://kf.kobotoolbox.org/api/v2/assets/am58aaAEAYMhi5qHRAZhhj/data/795499166/attachments/attFbkML5cbSFsXjxfMtfjDQ/
